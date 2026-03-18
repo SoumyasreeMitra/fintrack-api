@@ -236,7 +236,7 @@ fintrack-api/
 
 **Soumyasree Mitra**
 - GitHub: [@SoumyasreeMitra](https://github.com/SoumyasreeMitra)
-- LinkedIn: [linkedin.com/in/soumyasreemitra](#)
+- LinkedIn: [linkedin.com/in/soumyasree-mitra](#)
 
 ---
 
